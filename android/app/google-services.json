@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "720359756657",
+    "firebase_url": "https://sportshub-a9e9f-default-rtdb.firebaseio.com",
+    "project_id": "sportshub-a9e9f",
+    "storage_bucket": "sportshub-a9e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720359756657:android:b692fdf03d235bab309cd0",
+        "android_client_info": {
+          "package_name": "com.example.sports_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTqPwY2UU52PS6UoeIjtudzyyCKtSON8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
